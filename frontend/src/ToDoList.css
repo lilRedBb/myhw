@@ -1,0 +1,38 @@
+/* styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+  }
+  
+  h1 {
+    color: #444;
+  }
+  
+  button {
+    background-color: #ff0000;
+    color: #fff;
+  }
+  
+  button:hover {
+    background-color: #3cb300;
+  }
+  
+  .list-group-item {
+    border-color: #ddd;
+  }
+  
+  .list-group-item:hover {
+    background-color: #eee;
+  }
+  
+  .form-control {
+    border-color: #ddd;
+  }
+
+  .form-container {
+    background-color: #09ea7d;
+    padding: 15px;
+    border-radius: 5px;
+  }
